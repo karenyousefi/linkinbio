@@ -15,6 +15,7 @@ l1nk.bio
 later.com
 lift.bio
 liinks.co
+link.gallery
 link.space
 link.umode.com.br
 linkbio.co
@@ -37,6 +38,9 @@ set.page
 shor.by
 shorby.com
 snipfeed.co
+tapk.it
+tapkit.com
 taplink.at
 taplink.cc
 uniqode.com
+usebiolink.com
