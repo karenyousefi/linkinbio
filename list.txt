@@ -10,6 +10,8 @@ evrl.ink
 feed.link
 hopp.co
 hyperfollow.com
+jingle.bio
+jinglebio.link
 keepo.io
 komi.io
 l1nk.bio
@@ -33,6 +35,7 @@ lnk.at
 lnk.bio
 lnkfi.re
 lnkfy.co
+magic.ly
 milkshake.app
 muse.io
 set.page
@@ -41,6 +44,7 @@ shorby.com
 sleek.bio
 snapto.link
 snipfeed.co
+socprofile.com
 tapk.it
 tapkit.com
 taplink.at
