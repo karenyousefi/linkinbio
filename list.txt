@@ -1,7 +1,9 @@
+artist.link
 beacons.ai
 bio.fm
 bio.site
 biolink.site
+biolinky.co
 bit.ly
 bitly.com
 campsite.bio
@@ -38,6 +40,7 @@ lnkfy.co
 magic.ly
 milkshake.app
 muse.io
+odesli.co
 set.page
 shor.by
 shorby.com
@@ -45,6 +48,7 @@ sleek.bio
 snapto.link
 snipfeed.co
 socprofile.com
+song.link
 tapk.it
 tapkit.com
 taplink.at
