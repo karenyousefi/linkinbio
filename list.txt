@@ -10,6 +10,7 @@ campsite.bio
 contactinbio.com
 evrl.ink
 feed.link
+hoo.be
 hopp.co
 hyperfollow.com
 jingle.bio
