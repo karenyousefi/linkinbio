@@ -2,7 +2,9 @@ artist.link
 beacons.ai
 bio.fm
 bio.site
+biolink.info
 biolink.site
+biolink.website
 biolinky.co
 bit.ly
 bitly.com
@@ -43,7 +45,9 @@ lnkfy.co
 magic.ly
 milkshake.app
 muse.io
+mysoci.al
 odesli.co
+ohmy.bio
 set.page
 shor.by
 shorby.com
@@ -58,3 +62,4 @@ taplink.at
 taplink.cc
 uniqode.com
 usebiolink.com
+wonderlink.de
