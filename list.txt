@@ -10,6 +10,7 @@ bit.ly
 bitly.com
 campsite.bio
 contactinbio.com
+dazzl.ink
 evrl.ink
 feed.link
 hoo.be
@@ -48,12 +49,14 @@ muse.io
 mysoci.al
 odesli.co
 ohmy.bio
+reach.at
 set.page
 shor.by
 shorby.com
 sleek.bio
 snapto.link
 snipfeed.co
+sociatap.com
 socprofile.com
 song.link
 tapk.it
@@ -62,4 +65,5 @@ taplink.at
 taplink.cc
 uniqode.com
 usebiolink.com
+wonderl.ink
 wonderlink.de
