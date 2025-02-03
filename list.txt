@@ -11,6 +11,7 @@ bitly.com
 campsite.bio
 contactinbio.com
 dazzl.ink
+downsad.com
 evrl.ink
 feed.link
 hoo.be
@@ -21,6 +22,9 @@ jingle.bio
 jinglebio.link
 keepo.io
 komi.io
+kyte.bio
+kyte.lol
+kytelink.com
 l1nk.bio
 later.com
 lift.bio
@@ -31,6 +35,7 @@ link.umode.com.br
 linkbio.co
 linkfire.com
 linkflit.com
+linkfly.to
 linki.ee
 linkin-bio.digital
 linkin.bio
@@ -43,13 +48,16 @@ lnk.at
 lnk.bio
 lnkfi.re
 lnkfy.co
+lynxinbio.com
 magic.ly
 milkshake.app
 muse.io
 mysoci.al
 odesli.co
 ohmy.bio
+onne.link
 reach.at
+relink.is
 set.page
 shor.by
 shorby.com
