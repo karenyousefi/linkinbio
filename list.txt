@@ -14,6 +14,7 @@ dazzl.ink
 downsad.com
 evrl.ink
 feed.link
+heylink.me
 hoo.be
 hootbio.com
 hopp.co
@@ -42,6 +43,7 @@ linkin.bio
 linknbio.com
 linkpilot.in
 linkpop.com
+linksta.cc
 linktr.ee
 ln.ki
 lnk.at
@@ -61,6 +63,7 @@ relink.is
 set.page
 shor.by
 shorby.com
+shorten.tv
 sleek.bio
 snapto.link
 snipfeed.co
