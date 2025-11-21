@@ -21,6 +21,7 @@ hopp.co
 hyperfollow.com
 jingle.bio
 jinglebio.link
+juicy.bio
 keepo.io
 komi.io
 kyte.bio
@@ -52,7 +53,9 @@ lnkfi.re
 lnkfy.co
 lynxinbio.com
 magic.ly
+mez.ink
 milkshake.app
+mssg.me
 muse.io
 mysoci.al
 odesli.co
