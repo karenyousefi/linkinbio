@@ -1,3 +1,4 @@
+alllink.io
 artist.link
 beacons.ai
 bio.fm
@@ -21,6 +22,7 @@ hopp.co
 hyperfollow.com
 jingle.bio
 jinglebio.link
+joy.link
 juicy.bio
 keepo.io
 komi.io
@@ -44,6 +46,8 @@ linkin.bio
 linknbio.com
 linkpilot.in
 linkpop.com
+linkr.bio
+Linkr.com
 linksta.cc
 linktr.ee
 ln.ki
@@ -73,6 +77,8 @@ snipfeed.co
 sociatap.com
 socprofile.com
 song.link
+spf.bio
+superprofile.bio
 tapk.it
 tapkit.com
 taplink.at
